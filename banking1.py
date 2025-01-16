@@ -1,4 +1,5 @@
 # Initializing account details
+#Banking project code
 holder_name = input("Enter your name: ")
 balance = 0
 while True:
@@ -32,5 +33,4 @@ while True:
         break
     else:
         print("Invalid choice. Please try again.")
-
-fkfytjki;lyutujlkotu
+        
